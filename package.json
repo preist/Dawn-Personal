@@ -1,5 +1,5 @@
 {
-    "name": "dawn",
+    "name": "dawn-persoanl",
     "description": "A Ghost theme",
     "version": "1.0.0",
     "private": true,
@@ -8,14 +8,15 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Igor Putina",
+        "email": "hey@igorputina.com",
+        "url": "https://igorputina.org"
     },
     "keywords": [
         "ghost",
         "theme",
-        "ghost-theme"
+        "ghost-theme",
+        "personal-blog"
     ],
     "config": {
         "posts_per_page": 5,

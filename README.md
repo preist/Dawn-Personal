@@ -1,4 +1,4 @@
-# Dawn
+# Dawn Personal
 
 A highly functional [Ghost](https://github.com/TryGhost/Ghost) theme that adapts to the reader's preferences. Let them read, search, subscribe, navigate, and more with ease.
 
@@ -6,7 +6,7 @@ A highly functional [Ghost](https://github.com/TryGhost/Ghost) theme that adapts
 
 # Instructions
 
-1. [Download this theme](https://github.com/preist/Dawn-Personal/archive/refs/heads/main.zip)
+1. [Download this theme](https://github.com/preist/dawn-dersonal/archive/refs/heads/main.zip)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # Development
@@ -31,4 +31,4 @@ yarn zip
 
 # Copyright & License
 
-Released under the [MIT license](LICENSE).
+A personal fork of [Dawn](https://github.com/TryGhost/Dawn). Released under the [MIT license](LICENSE).
